@@ -1,4 +1,6 @@
 ## Documentação do código Java
+![image](https://github.com/GaziGustavo/Cadastro_alunos/assets/167039486/318a9f05-6c33-4923-a6c0-d2ec6e6793aa)
+
 
 O código Java apresentado é uma aplicação Spring Boot que implementa uma API para cadastro de alunos. Vamos analisar cada parte do código:
 
